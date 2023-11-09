@@ -1,0 +1,19 @@
+# UAE Companies Directory Scraper
+
+This Python script is designed to scrape data from the UAE Companies Directory on the uaecompanies.ae website. It retrieves information about companies listed in the directory, including company names, regions, and phone numbers. The scraped data is then saved to a CSV file for further analysis or use.
+
+## Prerequisites
+
+- Python 3.x
+- Required Python packages (can be installed via pip):
+  - requests
+  - BeautifulSoup
+
+## Usage
+
+1. Clone this repository or download the script (uae_companies_scraper.py) to your local machine.
+
+2. Run the script using the following command:
+
+   ```bash
+   python uae_companies_scraper.py
